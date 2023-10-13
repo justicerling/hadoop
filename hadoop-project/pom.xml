@@ -199,7 +199,7 @@
     <swagger-annotations-version>1.5.4</swagger-annotations-version>
     <snakeyaml.version>1.26</snakeyaml.version>
     <hbase.one.version>1.4.8</hbase.one.version>
-    <hbase.two.version>2.0.2</hbase.two.version>
+    <hbase.two.version>2.5.5</hbase.two.version>
     <junit.version>4.13.2</junit.version>
     <junit.jupiter.version>5.5.1</junit.jupiter.version>
     <junit.vintage.version>5.5.1</junit.vintage.version>
@@ -212,7 +212,7 @@
     <woodstox.version>5.3.0</woodstox.version>
     <json-smart.version>2.4.7</json-smart.version>
     <nimbus-jose-jwt.version>9.8.1</nimbus-jose-jwt.version>
-    <nodejs.version>v12.22.1</nodejs.version>
+    <nodejs.version>v14.0.0</nodejs.version>
     <yarnpkg.version>v1.22.5</yarnpkg.version>
     <apache-ant.version>1.10.11</apache-ant.version>
   </properties>

@@ -439,6 +439,7 @@
         <dependency>
           <groupId>org.apache.hadoop</groupId>
           <artifactId>hadoop-yarn-server-timelineservice-hbase-server-1</artifactId>
+          <version>3.3.4</version>
           <scope>test</scope>
           <exclusions>
             <exclusion>
@@ -462,6 +463,7 @@
         <dependency>
           <groupId>org.apache.hadoop</groupId>
           <artifactId>hadoop-yarn-server-timelineservice-hbase-server-2</artifactId>
+          <version>3.3.4</version>
           <scope>test</scope>
           <exclusions>
             <exclusion>
